@@ -1,0 +1,12 @@
+h1. Distinguishable Gray Balls plugin for "Jenkins":http://jenkins-ci.org
+
+Adds different icons for Disabled and Aborted jobs because the default Jenkins icons don't differentiate between Not Built, Disabled and Aborted.
+
+Forked from Jenkins "Green Balls plug-in":https://wiki.jenkins-ci.org/display/JENKINS/Green+Balls
+
+This plug-in is compatible with *both* blue and green ball icons
+
+Preview:
+
+!preview.png!
+
